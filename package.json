@@ -1,10 +1,10 @@
 {
-  "name": "repro-issue-three-svg",
+  "name": "asdasd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "rollup": "rollup -c rollup.config.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +13,6 @@
     "rollup-plugin-commonjs": "^9.3.0",
     "rollup-plugin-node-resolve": "^4.0.1",
     "three": "^0.103.0",
-    "three-svg-loader": "^0.1.0"
+    "three-svg-loader": "^0.2.4"
   }
 }
