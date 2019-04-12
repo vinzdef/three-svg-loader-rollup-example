@@ -1,4 +1,4 @@
-var reproIssueThreeSvg = (function () {
+var threeSvgLoaderRollupExample = (function () {
 	'use strict';
 
 	// Polyfills
@@ -50392,8 +50392,8 @@ var reproIssueThreeSvg = (function () {
 	console.log('CONSTRUCTOR', threeSvgLoader);
 	console.log('PROTOTYPE', threeSvgLoader.prototype);
 
-	var reproIssueThreeSvg = svgLoader;
+	var threeSvgLoaderRollupExample = svgLoader;
 
-	return reproIssueThreeSvg;
+	return threeSvgLoaderRollupExample;
 
 }());

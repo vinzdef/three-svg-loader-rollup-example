@@ -6,7 +6,7 @@ export default {
   output: {
     file: 'dist/bundle.js',
     format: 'iife',
-    name: 'reproIssueThreeSvg'
+    name: 'threeSvgLoaderRollupExample'
   },
   plugins: [
     resolve(),
